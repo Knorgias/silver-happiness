@@ -1,6 +1,6 @@
 ## variables, arrays, objects
 
-##### variables are containers we can use to store data
+#### variables are containers we can use to store data
 
 For example 
 ```javascript
@@ -9,14 +9,14 @@ let y = 62;
 let z = x + y;
 ```
 
-##### Arrays are lists of values like variables, objects or even other arrays
+#### Arrays are lists of values like variables, objects or even other arrays
 
 For example
 ```javascript
 let iceCream = ["Vanilla", "Strawberry", "Chocolate"];
 ```
 
-#####Objects
+#### Objects
 
 Objects are a specific type of variables that can contain many values using a key-value pairing
 
