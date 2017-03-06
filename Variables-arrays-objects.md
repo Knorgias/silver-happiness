@@ -24,7 +24,7 @@ For example
 ```javascript
 let meal = {
 	appetizer : "tuna salad",
-	main-dish : "steak a la creme",
+	main-dish : "steak a-la-creme",
 	dessert : "black forest"
 }
 ```
